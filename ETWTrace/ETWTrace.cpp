@@ -39,8 +39,6 @@ int main()
 	}
 
 cleanup:
-	delete pSession;
-
 	return 0;
 
 }

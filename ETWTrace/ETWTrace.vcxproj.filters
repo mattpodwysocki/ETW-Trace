@@ -30,6 +30,9 @@
     <ClInclude Include="TraceSession.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TraceEventInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
