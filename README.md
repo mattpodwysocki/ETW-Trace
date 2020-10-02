@@ -1,2 +1,2 @@
 # ETW-Trace
-ETW Tracing C++ project
+ETW Tracing Using C++
